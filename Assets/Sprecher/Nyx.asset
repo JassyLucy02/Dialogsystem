@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Nyx
   m_EditorClassIdentifier: 
   sprecherName: Nyx
-  sprecherSprite: {fileID: 0}
+  sprecherSprite: {fileID: 21300000, guid: d50aaeb2637f4614fa9fe5ae53ddf9a4, type: 3}

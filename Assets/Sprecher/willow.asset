@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: willow
   m_EditorClassIdentifier: 
   sprecherName: Willow
-  sprecherSprite: {fileID: 0}
+  sprecherSprite: {fileID: 21300000, guid: 810e36eba4d7bed419288ee30e3d8ef0, type: 3}

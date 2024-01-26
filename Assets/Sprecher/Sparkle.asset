@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Sparkle
   m_EditorClassIdentifier: 
   sprecherName: Sparkle
-  sprecherSprite: {fileID: 0}
+  sprecherSprite: {fileID: 21300000, guid: 05fa97fe187e4764183cd79767c75ef7, type: 3}
